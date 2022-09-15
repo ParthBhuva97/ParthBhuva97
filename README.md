@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthbhuva97&label=Profile%20views&color=0e75b6&style=flat" alt="parthbhuva97" /> </p>
 
-- 🔭 I’m currently working on **QR Based Attendance System**
+- 🔭 I’m currently working on **QR Based Online Attendance System**
 
 - 🌱 I’m currently learning **Flutter & Node.js**
 
