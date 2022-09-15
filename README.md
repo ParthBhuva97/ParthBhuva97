@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **QR Based Attendance System**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Flutter & Node.js**
 
 - 📫 How to reach me **parthbhuva97@gmail.com**
 
